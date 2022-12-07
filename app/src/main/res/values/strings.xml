@@ -1,0 +1,7 @@
+    <resources>
+    <string name="app_name">Movies</string>
+        <string name="movie_name" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_fetch_movies">Please check your internet connection</string>
+</resources>
